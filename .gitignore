@@ -1,0 +1,7 @@
+.ionide/
+.fake
+
+*/.config/*
+*/.exercism/*
+*/bin/*
+*/obj/*

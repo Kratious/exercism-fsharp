@@ -1,0 +1,11 @@
+{
+    "folders": [ { "path": "."}],
+    "extensions": {
+        "recommendations": [
+            "ionide.ionide-fsharp"
+        ]
+    },
+    "settings": {
+        "editor.formatOnSave": true,
+    }
+}
